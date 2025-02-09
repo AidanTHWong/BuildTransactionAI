@@ -2,7 +2,7 @@
 
 A decentralized trading interface leveraging Avalanche C-Chain and Flare Network for secure, AI-enhanced trading experiences.
 
-## Backend Integration
+## Backend Repo
 ```typescript
 const BACKEND_API = 'https://github.com/vickytoriah/BuildTransaction_AI';
 ```
